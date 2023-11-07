@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "2.0.5",
-  "productName": "Helios Launcher",
+  "name": "mrepubliklauncher",
+  "version": "1.0.0",
+  "productName": "MREPUBLIK Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) modifed by MREPUBLIK",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/snoweyrawr/MREPUBLIKLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/snoweyrawr/MREPUBLIKLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/snoweyrawr/MREPUBLIKLauncher.git"
   }
 }
